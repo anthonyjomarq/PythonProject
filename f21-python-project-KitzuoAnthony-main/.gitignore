@@ -1,0 +1,5 @@
+.DS_Store
+cohstats/**/__pycache__/
+*.pyc
+__pycache__
+.idea/

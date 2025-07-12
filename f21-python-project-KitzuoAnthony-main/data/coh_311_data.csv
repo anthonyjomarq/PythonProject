@@ -1,0 +1,301 @@
+date|time|day_of_week|hour_of_day|neighborhood|key_map|district|division|serv_type|queue|wait|days|origin
+10/28/16|21:20:27|5|21|SPRING BRANCH CENTRAL|450M|Spring Branch MD|311 Call Handling|Unclassified 311 Web Request|311_Seniors|1|-2|WAP
+8/31/16|7:36:15|3|7|NEAR NORTHSIDE|493D|Greater Northside MD|311 Call Handling|Unclassified 311 Web Request|311_Seniors|1|-1|WAP
+5/5/16|14:22:20|4|14|SUNNYSIDE|533T|HCID #10-A|311 Call Handling|Unclassified 311 Web Request|311_Seniors|1|-3|WAP
+7/29/16|11:16:18|5|11|GOLFCREST / BELLFORT / REVEILLE|574D|HCID #9|311 Call Handling|Unclassified 311 Web Request|311_Seniors|1|0|WAP
+1/8/16|9:30:35|5|9|WESTWOOD|529V|Sharpstown MD|311 Call Handling|Unclassified 311 Web Request|311_Seniors|1|-3|WAP
+4/14/16|16:42:12|4|16|SOUTH ACRES / CRESTMONT PARK|573G|HCID #10-A|311 Call Handling|Unclassified 311 Web Request|311_Seniors|1|-3|WAP
+7/26/16|9:26:03|2|9|SPRING BRANCH CENTRAL|450V|Spring Branch MD|311 Call Handling|GraffitiAll|NS_Dispatch|30|5|Voice In
+8/22/16|20:28:14|1|20|MIDTOWN|493U|Midtown MD|311 Call Handling|Unclassified 311 Web Request|311_Seniors|1|-1|WAP
+12/2/16|14:39:54|5|14|GREATER INWOOD|411T|Near Northwest MD|311 Call Handling|GraffitiAll|311_HelpLine|30|-47|Voice In
+12/2/16|8:16:14|5|8|CENTRAL NORTHWEST|451B|Near Northwest MD|311 Call Handling|Unclassified 311 Web Request|311_Seniors|1|-3|WAP
+5/27/16|14:43:26|5|14|LANGWOOD|450M|Spring Branch MD|Collections|Missed Garbage Pickup|SWM_CollectionsNW|4|-2|Voice In
+4/28/16|11:10:14|4|11|CENTRAL SOUTHWEST|571P|Five Corners HCID #10B|Collections|Container Problem|SWM_Collections|10|-10|Voice In
+7/20/16|23:09:58|3|23|NORTHSIDE/NORTHLINE|413Y|Greater Northside MD|Collections|Container Problem|SWM_CollectionsNE|10|4|WEB
+8/1/16|10:40:53|1|10|SOUTH ACRES / CRESTMONT PARK|573Q|Five Corners HCID #10B|Collections|Missed Heavy Trash Pickup|SWM_CollectionsSE|7|-7|Voice In
+10/7/16|14:21:44|5|14|SPRING BRANCH NORTH|450N|Spring Branch MD|Collections|Missed Garbage Pickup|SWM_CollectionsNW|4|-2|Voice In
+5/31/16|10:39:51|2|10|GOLFCREST / BELLFORT / REVEILLE|534Y|HCID #9|Collections|Container Problem|SWM_CollectionsSE|10|-9|Voice In
+3/23/16|17:31:44|3|17|CENTRAL SOUTHWEST|572T|Five Corners HCID #10B|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-2|Voice In
+1/24/16|11:00:55|7|11|SOUTH ACRES / CRESTMONT PARK|573L|HCID #10-A|Collections|Missed Heavy Trash Pickup|SWM_CollectionsSE|7|-5|Voice In
+8/29/16|14:25:42|1|14|SPRING BRANCH NORTH|449R|Spring Branch MD|Collections|Missed Yard Waste Pickup|SWM_CollectionsNW|6|-8|Voice In
+1/13/16|15:49:08|3|15|HARRISBURG / MANCHESTER|535B|East End MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-3|Voice In
+11/17/16|14:12:05|4|14|BRAYS OAKS|570B|HCID #5 (Brays Oaks)|Collections|Missed Garbage Pickup|SWM_CollectionsSW|4|-1|Voice In
+12/6/16|18:55:08|2|18|MACGREGOR|533G|Greater Southeast MD|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|-5|Voice In
+6/24/16|17:16:31|5|17|SUNNYSIDE|533U|HCID #10-A|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|-1|Voice In
+8/1/16|10:51:46|1|10|NEARTOWN - MONTROSE|493N|Montrose Management District|Collections|New Resident Container|SWM_CollectionsNW|12|4|Voice In
+5/18/16|12:52:16|3|12|GREATER GREENSPOINT|372K|Greater Greenspoint MD|Collections|New Resident Container|SWM_CollectionsNE|12|-1|Voice In
+8/18/16|11:36:23|4|11|SOUTH PARK|534S|HCID #10-A|Collections|Container Problem|SWM_CollectionsSE|10|-5|Voice In
+8/29/16|18:39:38|1|18|MAGNOLIA PARK|494V|East End MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-3|Voice In
+12/7/16|12:21:41|3|12|MACGREGOR|533G|Greater Southeast MD|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|-4|Voice In
+8/30/16|7:55:10|2|7|MAGNOLIA PARK|495X|East End MD|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|-6|Voice In
+8/5/16|14:53:41|5|14|GREATER INWOOD|410R|Near Northwest MD|Collections|Missed Heavy Trash Pickup|SWM_CollectionsNE|7|-9|Voice In
+10/18/16|14:14:42|2|14|MAGNOLIA PARK|494R|East End MD|Collections|New Resident Container|SWM_CollectionsSE|12|-11|Voice In
+10/8/16|17:18:44|6|17|SECOND WARD|494T|East End MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-1|Voice In
+8/31/16|19:20:13|3|19|SECOND WARD|494P|East End MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-2|Voice In
+11/17/16|14:36:12|4|14|EASTEX - JENSEN AREA|414X|Greater Northside MD|Collections|Container Problem|SWM_CollectionsNE|10|-5|Voice In
+4/7/16|14:53:52|4|14|LAWNDALE / WAYSIDE|535A|East End MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-3|Voice In
+3/30/16|7:36:28|3|7|INDEPENDENCE HEIGHTS|453P|Greater Northside MD|Collections|Missed Garbage Pickup|SWM_CollectionsNW|4|-5|Voice In
+9/28/16|9:44:43|3|9|INDEPENDENCE HEIGHTS|453P|Greater Northside MD|Collections|Container Problem|SWM_CollectionsNW|10|3|WEB
+5/25/16|9:12:06|3|9|GREATER INWOOD|410R|Near Northwest MD|Collections|Missed Heavy Trash Pickup|SWM_CollectionsNE|7|-10|Voice In
+6/27/16|14:50:05|1|14|SUNNYSIDE|574A|HCID #10-A|Collections|Trash Dumping or Illegal Dumpsite|SWM_CollectionsSE|29|-12|WEB
+6/28/16|8:04:01|2|8|NEARTOWN - MONTROSE|492V|Montrose Management District|Collections|Missed Garbage Pickup|SWM_CollectionsNW|4|-4|Voice In
+9/14/16|8:22:02|3|8|NORTHSIDE/NORTHLINE|453L|Greater Northside MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-4|Voice In
+3/18/16|16:36:18|5|16|MACGREGOR|533D|Greater Southeast MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|3|Voice In
+5/9/16|9:36:15|1|9|NEARTOWN - MONTROSE|493N|Montrose Management District|Collections|Container Problem|SWM_CollectionsNW|10|-2|Voice In
+4/15/16|11:56:42|5|11|CENTRAL SOUTHWEST|572N|Five Corners HCID #10B|Collections|Missed Yard Waste Pickup|SWM_CollectionsSW|6|-4|Voice In
+11/18/16|15:14:27|5|15|CENTRAL SOUTHWEST|571Z|Five Corners HCID #10B|Collections|Missed Garbage Pickup|SWM_CollectionsSW|4|-6|Voice In
+1/20/16|15:27:31|3|15|GREATER INWOOD|411P|Near Northwest MD|Collections|Container Problem|SWM_CollectionsNW|10|-2|Voice In
+11/29/16|9:02:34|2|9|SPRING BRANCH NORTH|450N|Spring Branch MD|Collections|Missed Heavy Trash Pickup|SWM_CollectionsNE|7|123|Voice In
+10/6/16|9:30:35|4|9|SECOND WARD|494T|East End MD|Collections|Missed Heavy Trash Pickup|SWM_CollectionsSE|7|-5|Voice In
+2/21/16|13:47:03|7|13|GREATER HEIGHTS|493B|Greater Northside MD|Collections|Container Problem|SWM_CollectionsNW|10|-5|Voice In
+7/2/16|9:46:29|6|9|NEAR NORTHSIDE|493H|Greater Northside MD|Collections|Container Problem|SWM_CollectionsNE|10|-10|Voice In
+6/28/16|17:19:24|2|17|MACGREGOR|533C|Greater Southeast MD|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|-6|Voice In
+5/17/16|11:29:03|2|11|PECAN PARK|535F|East End MD|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|-5|Voice In
+5/18/16|10:44:03|3|10|SHARPSTOWN|530E|Sharpstown MD|Collections|Missed Garbage Pickup|SWM_CollectionsSW|4|-1|Voice In
+11/21/16|19:49:31|1|19|NORTHSIDE/NORTHLINE|453L|Greater Northside MD|Collections|Missed Garbage Pickup|SWM_CollectionsNE|4|-7|Voice In
+4/19/16|10:16:15|2|10|WESTCHASE|489X|Westchase MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-4|Voice In
+3/22/16|10:26:15|2|10|NEAR NORTHSIDE|493D|Greater Northside MD|Collections|Container Problem|SWM_CollectionsNE|10|-7|Voice In
+11/18/16|17:29:18|5|17|SPRING BRANCH EAST|451X|Spring Branch MD|Collections|Missed Garbage Pickup|SWM_CollectionsNW|4|-5|Voice In
+4/20/16|13:51:03|3|13|GOLFCREST / BELLFORT / REVEILLE|535S|HCID #9|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|15|Voice In
+10/21/16|6:59:33|5|6|GREATER OST / SOUTH UNION|534J|Greater Southeast MD|Collections|Missed Heavy Trash Pickup|SWM_CollectionsSE|7|-5|Voice In
+5/19/16|10:29:24|4|10|NEARTOWN - MONTROSE|493N|Montrose Management District|Collections|Container Problem|SWM_CollectionsNW|10|4|Voice In
+4/21/16|17:30:28|4|17|MAGNOLIA PARK|494R|East End MD|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|-1|Voice In
+8/15/16|10:50:19|1|10|ALIEF|529J|International MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-3|Voice In
+4/20/16|15:34:37|3|15|GREATER THIRD WARD|493Y|Greater Southeast MD|Collections|Missed Garbage Pickup|SWM_CollectionsSE|4|1|Voice In
+1/26/16|15:34:23|2|15|EASTEX - JENSEN AREA|454N|Greater Northside MD|Collections|New Resident Container|SWM_CollectionsNE|12|-1|Voice In
+8/10/16|17:40:18|3|17|SECOND WARD|494T|East End MD|Collections|Dead Animal Collection|SWM_CollectionsNE|4|-2|Voice In
+5/3/16|22:10:56|2|22|GREATER INWOOD|411T|Near Northwest MD|Collections|Storm Debris Collection|SWM_CollectionsNE|5|-7|Voice In
+8/3/16|17:28:10|3|17|EASTEX - JENSEN AREA|453H|Greater Northside MD|Community Services|Recycle Program Start Up|SWM_CommunityService|10|-10|Voice In
+10/6/16|10:40:07|4|10|GOLFCREST / BELLFORT / REVEILLE|535Y|HCID #9|Customer Escalation|SWM Escalation|SWM_CollectionsSE|27|17|Voice In
+11/2/16|17:05:58|3|17|NEAR NORTHSIDE|493H|Greater Northside MD|Customer Escalation|SWM Escalation|SWM_CustomerEscalation|27|-4|Voice In
+4/21/16|7:25:39|4|7|LANGWOOD|450M|Spring Branch MD|Disaster Recovery|Crisis Cleanup|HCD_Cleanup|1|144|Voice In
+4/19/16|14:33:41|2|14|GREATER INWOOD|410R|Near Northwest MD|Disaster Recovery|Crisis Cleanup|HCD_Cleanup|1|148|Voice In
+4/18/16|11:56:56|1|11|SPRING BRANCH WEST|450X|Spring Branch MD|Disaster Recovery|Crisis Cleanup|HCD_Cleanup|1|149|Voice In
+3/17/16|18:04:48|4|18|EASTEX - JENSEN AREA|413Z|Greater Northside MD|EC Engineering Construction|PWE CIP Project|EC_EngineerConstruct|5|-2|Voice In
+3/17/16|12:57:57|4|12|MUSEUM PARK|533B|Greater Southeast MD|EC Engineering Construction|PWE CIP Project|EC_EngineerConstruct|5|-7|Voice In
+12/5/16|21:17:49|1|21|NEAR NORTHSIDE|453U|Greater Northside MD|EC Engineering Construction|PWE CIP Project|EC_EngineerConstruct|5|-1|Voice In
+9/6/16|10:11:58|2|10|SUNNYSIDE|533Y|HCID #10-A|EC Engineering Construction|PWE CIP Project|EC_EngineerConstruct|5|-5|Voice In
+9/6/16|16:49:42|2|16|SOUTH ACRES / CRESTMONT PARK|573Q|Five Corners HCID #10B|Environmental Health|Air Pollution|EH_BurPolControlPrev|30|-9|Voice In
+2/23/16|14:44:29|2|14|NORTHSIDE/NORTHLINE|453A|Greater Northside MD|Environmental Health|Health Code|HLT_HealthCode|55|-50|Voice In
+7/13/16|12:27:30|3|12|NORTHSIDE/NORTHLINE|413U|Greater Northside MD|FM Facilities and Maintenance|Fountain Repair|PR_FacilitiesMaint|11|-5|Voice In
+10/18/16|8:12:17|2|8|SPRING BRANCH EAST|451Y|Spring Branch MD|FM Facilities and Maintenance|Poor Drainage|PR_FacilitiesMaint|15|-15|Voice In
+11/10/16|23:47:24|4|23|SHARPSTOWN|530F|Sharpstown MD|FM Facilities and Maintenance|Playground or Court Equipment|PR_FacilitiesMaint|12|-7|Voice In
+11/17/16|18:15:19|4|18|EASTEX - JENSEN AREA|453H|Greater Northside MD|FM Facilities and Maintenance|Lighting|PR_FacilitiesMaint|5|-1|Voice In
+8/17/16|11:55:52|3|11|MID WEST|491W|Harris County PID#2|Forestry|Tree Trim|PR_Forestry|75|-73|Voice In
+7/28/16|9:24:09|4|9|NEAR NORTHSIDE|453Q|Greater Northside MD|Forestry|Tree Trim|PR_Forestry|75|3|Voice In
+2/23/16|14:53:56|2|14|NEAR NORTHSIDE|453Z|Greater Northside MD|Forestry|Tree Removal|PR_Forestry|51|-153|Voice In
+9/28/16|15:31:53|3|15|MEDICAL CENTER AREA|533E|Greater Southeast MD|Forestry|Tree Removal|PR_Forestry|51|252|Voice In
+12/7/16|13:11:07|3|13|NORTHSIDE/NORTHLINE|413W|Greater Northside MD|Forestry|Tree Trim|PR_Forestry|75|-31|Voice In
+8/2/16|17:26:46|2|17|SHARPSTOWN|529H|Sharpstown MD|General Support Services|Dumpster Complaint|SWM_Complaints|21|1|Voice In
+7/15/16|5:40:08|5|5|NEARTOWN - MONTROSE|493N|Montrose Management District|General Support Services|Dumpster Complaint|SWM_Complaints|21|-31|Voice In
+4/30/16|10:02:17|6|10|INDEPENDENCE HEIGHTS|452H|Greater Northside MD|General Support Services|Add A Can|SWM_CollectionsNW|14|2|Voice In
+3/7/16|16:40:46|1|16|BRAYS OAKS|570G|HCID #5 (Brays Oaks)|General Support Services|Dumpster Complaint|SWM_Complaints|21|-15|Voice In
+7/13/16|15:37:04|3|15|CENTRAL SOUTHWEST|571M|Five Corners HCID #10B|Investigations|Junk Motor Vehicle|NS_Dispatch|176|-245|Voice In
+8/2/16|16:29:46|2|16|NORTHSIDE/NORTHLINE|453K|Greater Northside MD|Investigations|Nuisance On Property|NS_Dispatch|180|34|Voice In
+3/15/16|11:52:44|2|11|FONDREN GARDENS|570R|Five Corners HCID #10B|Investigations|Junk Motor Vehicle|NS_Dispatch|176|-407|Voice In
+7/18/16|10:11:15|1|10|GREATER HEIGHTS|453X|Greater Northside MD|Investigations|Junk Motor Vehicle|NS_Dispatch|176|47|Voice In
+11/15/16|16:23:21|2|16|GREATER FIFTH WARD|494E|Greater Northside MD|Investigations|Nuisance On Property|NS_Dispatch|180|-205|Voice In
+10/7/16|10:16:44|5|10|CENTRAL SOUTHWEST|571V|Five Corners HCID #10B|Investigations|Heavy Trash Violation|NS_Dispatch|25|2|Voice In
+7/5/16|10:36:17|2|10|NEAR NORTHSIDE|493D|Greater Northside MD|Investigations|Nuisance On Property|NS_Dispatch|180|-41|WAP
+4/28/16|14:42:27|4|14|SUNNYSIDE|533Y|HCID #10-A|Investigations|Nuisance On Property|NS_Dispatch|180|-218|WAP
+11/7/16|14:37:08|1|14|GREATER THIRD WARD|493Z|Greater Southeast MD|Investigations|Nuisance On Property|NS_Dispatch|180|-203|Voice In
+7/25/16|21:18:44|1|21|NORTHSIDE/NORTHLINE|413Y|Greater Northside MD|Investigations|Heavy Trash Violation|NS_Dispatch|25|-20|Voice In
+5/17/16|17:36:26|2|17|CENTRAL SOUTHWEST|571M|Five Corners HCID #10B|Investigations|Nuisance On Property|NS_Dispatch|180|-6|Voice In
+5/17/16|9:50:41|2|9|NEAR NORTHSIDE|453U|Greater Northside MD|Investigations|Nuisance On Property|NS_Dispatch|180|-210|WAP
+8/1/16|21:02:53|1|21|NEARTOWN - MONTROSE|493S|Montrose Management District|Investigations|Nuisance On Property|NS_Dispatch|180|-16|Voice In
+4/28/16|10:22:11|4|10|SUNNYSIDE|533Z|HCID #10-A|Investigations|Nuisance On Property|NS_Dispatch|180|133|WAP
+6/17/16|10:04:02|5|10|CENTRAL SOUTHWEST|571Q|Five Corners HCID #10B|Investigations|Nuisance On Property|NS_Dispatch|180|-264|Voice In
+11/7/16|14:26:08|1|14|GREATER INWOOD|411S|Near Northwest MD|Investigations|Nuisance On Property|NS_Dispatch|180|-261|WEB
+1/14/16|12:25:00|4|12|NORTHSIDE/NORTHLINE|453R|Greater Northside MD|Investigations|Heavy Trash Violation|NS_Dispatch|25|5|Voice In
+7/19/16|14:55:07|2|14|CENTRAL SOUTHWEST|571M|Five Corners HCID #10B|Investigations|Nuisance On Property|NS_Dispatch|180|-238|Voice In
+7/26/16|8:07:51|2|8|NEARTOWN - MONTROSE|493N|Montrose Management District|Investigations|Heavy Trash Violation|NS_Dispatch|25|16|Voice In
+6/2/16|8:17:21|4|8|SPRING BRANCH EAST|451Y|Spring Branch MD|Investigations|Nuisance On Property|NS_Dispatch|180|-218|Voice In
+3/15/16|9:33:56|2|9|MIDTOWN|493X|Midtown MD|Investigations|Nuisance On Property|NS_Dispatch|180|-259|WEB
+10/20/16|12:47:28|4|12|INDEPENDENCE HEIGHTS|453E|Greater Northside MD|Investigations|Nuisance On Property|NS_Dispatch|180|83|Voice In
+10/25/16|13:08:01|2|13|EASTEX - JENSEN AREA|414Y|Greater Northside MD|Investigations|Junk Motor Vehicle|NS_Dispatch|176|-256|Voice In
+4/25/16|10:42:12|1|10|SOUTH ACRES / CRESTMONT PARK|573G|HCID #10-A|Investigations|Nuisance On Property|NS_Dispatch|180|60|WAP
+8/29/16|12:21:10|1|12|SOUTH PARK|534W|HCID #10-A|Investigations|Junk Motor Vehicle|NS_Dispatch|176|-150|Voice In
+3/10/16|12:39:53|4|12|GREATER THIRD WARD|493Y|Greater Southeast MD|Investigations|Minimum Standards|NS_Dispatch|153|-44|Voice In
+7/14/16|9:38:47|4|9|ALIEF|529N|International MD|Investigations|Heavy Trash Violation|NS_Dispatch|25|62|Voice In
+11/28/16|15:46:18|1|15|GREATER EASTWOOD|494S|East End MD|Investigations|Nuisance On Property|NS_Dispatch|180|-216|WAP
+1/25/16|7:52:08|1|7|GREATER UPTOWN|491Q|Uptown Houston MD|Investigations|Minimum Standards|NS_Dispatch|153|-525|Voice In
+2/28/16|14:42:12|7|14|GREATER FIFTH WARD|494A|Greater Northside MD|Investigations|Nuisance On Property|NS_Dispatch|180|-254|WAP
+4/26/16|15:00:08|2|15|SOUTH ACRES / CRESTMONT PARK|573R|HCID #10-A|Investigations|Junk Motor Vehicle|NS_Dispatch|176|-454|Voice In
+5/31/16|20:20:16|2|20|NEARTOWN - MONTROSE|493N|Montrose Management District|Investigations|Nuisance On Property|NS_Dispatch|180|-221|WAP
+5/3/16|17:56:44|2|17|EASTEX - JENSEN AREA|453M|Greater Northside MD|Investigations|Heavy Trash Violation|NS_Dispatch|25|-35|Voice In
+10/6/16|15:09:49|4|15|GREATER EASTWOOD|494T|East End MD|Investigations|Junk Motor Vehicle|NS_Dispatch|176|-173|Voice In
+9/13/16|13:42:54|2|13|GREATER INWOOD|411T|Near Northwest MD|Investigations|Nuisance On Property|NS_Dispatch|180|-220|WEB
+11/22/16|10:45:01|2|10|GREATER HEIGHTS|453T|Greater Northside MD|Investigations|Nuisance On Property|NS_Dispatch|180|-260|WAP
+3/20/16|16:39:57|7|16|ALIEF|529J|International MD|Investigations|Nuisance On Property|NS_Dispatch|180|-255|Voice In
+3/18/16|10:37:34|5|10|SOUTH ACRES / CRESTMONT PARK|573L|HCID #10-A|Investigations|Nuisance On Property|NS_Dispatch|180|-262|Voice In
+8/1/16|10:49:33|1|10|SUNNYSIDE|533Y|HCID #10-A|Investigations|Nuisance On Property|NS_Dispatch|180|-249|Voice In
+7/11/16|15:46:18|1|15|SUNNYSIDE|533U|HCID #10-A|Investigations|Nuisance On Property|NS_Dispatch|180|55|WAP
+11/14/16|12:34:15|1|12|GREATER HEIGHTS|453W|Greater Northside MD|Investigations|Nuisance On Property|NS_Dispatch|180|23|Voice In
+5/12/16|10:31:32|4|10|ALIEF|529X|International MD|Parking Enforcement|Parking Violation|PM_ParkingEnforcement|19|-9|Voice In
+7/5/16|21:00:23|2|21|MAGNOLIA PARK|495S|East End MD|Parking Enforcement|Parking Violation|PM_ParkingEnforcement|19|-19|Voice In
+8/19/16|13:41:23|5|13|ALIEF|529N|International MD|Parking Enforcement|Parking Violation|PM_ParkingEnforcement|19|-13|Voice In
+8/28/16|13:09:45|7|13|ALIEF|529S|International MD|Parking Enforcement|Parking Violation|PM_ParkingEnforcement|19|-15|Voice In
+9/12/16|13:08:54|1|13|GREENWAY / UPPER KIRBY AREA|492U|HCID #3 (Upper Kirby)|Parking Enforcement|Parking Violation|PM_ParkingEnforcement|19|-15|Voice In
+12/20/16|15:45:57|2|15|GREATER INWOOD|411S|Near Northwest MD|Parking Enforcement|Parking Violation|PM_ParkingEnforcement|19|-19|Voice In
+11/3/16|22:03:32|4|22|MACGREGOR|533C|Greater Southeast MD|Parking Enforcement|Parking Violation|PM_ParkingEnforcement|19|-15|Voice In
+1/13/16|10:25:03|3|10|MIDTOWN|493T|Midtown MD|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-7|Voice In
+1/22/16|14:35:40|5|14|DOWNTOWN|493R|Houston Downtown|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-9|Voice In
+3/17/16|10:03:35|4|10|DOWNTOWN|493R|Houston Downtown|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-13|Voice In
+6/6/16|7:20:40|1|7|DOWNTOWN|493R|Houston Downtown|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-6|Voice In
+5/4/16|16:31:06|3|16|DOWNTOWN|493M|Houston Downtown|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-14|Voice In
+1/8/16|16:58:52|5|16|DOWNTOWN|493M|Houston Downtown|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-11|Voice In
+12/7/16|13:10:44|3|13|DOWNTOWN|493Q|Houston Downtown|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-16|Voice In
+8/27/16|9:38:21|6|9|DOWNTOWN|493Q|Houston Downtown|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-14|Voice In
+12/6/16|7:40:22|2|7|GREATER THIRD WARD|534A|Greater Southeast MD|Parking Meter Maintenance|Parking Meter|PMM_Parking Meter|18|-11|Voice In
+8/23/16|20:40:25|2|20|SPRING BRANCH CENTRAL|450Q|Spring Branch MD|PDS Planning Development Services|City Engineer|PDS_CityEngineer|5|-3|WAP
+5/18/16|17:36:25|3|17|SOUTH ACRES / CRESTMONT PARK|574E|HCID #10-A|PDS Planning Development Services|City Engineer|PDS_CityEngineer|5|0|Voice In
+11/9/16|10:53:50|3|10|INDEPENDENCE HEIGHTS|453J|Greater Northside MD|PDS Planning Development Services|City Engineer|PDS_CityEngineer|5|-4|Voice In
+2/13/16|13:42:08|6|13|NEARTOWN - MONTROSE|492V|Montrose Management District|PDS Planning Development Services|Building or Sign Code|PDS_PlanDevelopServ|7|-1|WAP
+11/10/16|14:45:21|4|14|NEARTOWN - MONTROSE|492Z|Montrose Management District|PDS Planning Development Services|MultiFamily Habitability Violation|PDS_PlanDevelopServ|7|-2|Voice In
+5/9/16|16:29:16|1|16|SPRING BRANCH EAST|451S|Spring Branch MD|PDS Planning Development Services|Building or Sign Code|PDS_PlanDevelopServ|7|-6|Voice In
+5/3/16|12:00:33|2|12|CENTRAL SOUTHWEST|572R|Five Corners HCID #10B|PDS Planning Development Services|Building or Sign Code|PDS_PlanDevelopServ|7|-7|Voice In
+11/16/16|17:59:56|3|17|GREATER THIRD WARD|533C|Greater Southeast MD|PDS Planning Development Services|Building or Sign Code|PDS_PlanDevelopServ|7|-5|Voice In
+5/2/16|10:17:18|1|10|GREATER INWOOD|411J|Near Northwest MD|PDS Planning Development Services|Building or Sign Code|PDS_PlanDevelopServ|7|-7|Voice In
+6/15/16|17:43:25|3|17|SPRING BRANCH EAST|451U|Spring Branch MD|PDS Planning Development Services|Building or Sign Code|PDS_PlanDevelopServ|7|-6|Voice In
+8/9/16|16:24:20|2|16|BRAYS OAKS|569D|HCID #5 (Brays Oaks)|PDS Planning Development Services|MultiFamily Habitability Violation|PDS_PlanDevelopServ|7|-6|Voice In
+3/14/16|17:32:21|1|17|SHARPSTOWN|529M|Sharpstown MD|PDS Planning Development Services|MultiFamily Habitability Violation|No Queue Assigned To User|7|-2|Voice In
+8/31/16|15:29:51|3|15|GREATER GREENSPOINT|373N|Greater Greenspoint MD|PDS Planning Development Services|MultiFamily Habitability Violation|PDS_PlanDevelopServ|7|-5|Voice In
+12/2/16|13:53:12|5|13|CENTRAL SOUTHWEST|572N|Five Corners HCID #10B|PDS Planning Development Services|Building or Sign Code|PDS_PlanDevelopServ|7|-7|Voice In
+10/15/16|17:38:05|6|17|SPRING BRANCH WEST|449V|Spring Branch MD|PU Public Utilities|Water Leak|PU_Water|10|-10|Voice In
+11/21/16|13:23:02|1|13|DOWNTOWN|493R|East Downtown MD|PU Public Utilities|Water Service|PU_Water|2|-2|Voice In
+3/11/16|23:04:34|5|23|GREATER GREENSPOINT|372U|Greater Greenspoint MD|PU Public Utilities|Water Service|PU_Water|2|-22|Voice In
+6/16/16|11:15:29|4|11|GREATER EASTWOOD|494S|East End MD|PU Public Utilities|Water Quality|PU_WaterQuality|4|-3|Voice In
+2/3/16|10:15:47|3|10|SECOND WARD|494U|East End MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+10/12/16|9:27:40|3|9|CENTRAL SOUTHWEST|572N|Five Corners HCID #10B|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+8/25/16|13:40:20|4|13|SHARPSTOWN|530E|Sharpstown MD|PU Public Utilities|Restoration Due To Utility Work|PU_UtilitiesMain|30|-26|WAP
+7/28/16|15:08:21|4|15|BRAYS OAKS|570G|HCID #5 (Brays Oaks)|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+5/10/16|10:20:13|2|10|SPRING BRANCH NORTH|449M|Spring Branch MD|PU Public Utilities|Water Leak|PU_Water|10|-22|Voice In
+8/4/16|12:39:51|4|12|NEAR NORTHSIDE|493C|Greater Northside MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|0|Voice In
+5/12/16|8:43:10|4|8|CENTRAL SOUTHWEST|572E|Five Corners HCID #10B|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|67|Voice In
+11/12/16|9:19:12|6|9|SUNNYSIDE|573C|HCID #10-A|PU Public Utilities|Water Service|PU_Water|2|-1|Voice In
+1/15/16|8:21:39|5|8|GREATER THIRD WARD|493Z|Greater Southeast MD|PU Public Utilities|Water Leak|PU_Water|10|31|Voice In
+2/23/16|10:04:41|2|10|EASTEX - JENSEN AREA|414S|Greater Northside MD|PU Public Utilities|Water Service|PU_Water|2|-22|Voice In
+12/26/16|15:56:55|1|15|BRAYS OAKS|570F|HCID #5 (Brays Oaks)|PU Public Utilities|Water Leak|PU_Water|10|-9|Voice In
+4/13/16|14:12:16|3|14|GREATER GREENSPOINT|372G|Greater Greenspoint MD|PU Public Utilities|Sewer Manhole|PU_UtilitiesMain|5|-1|WAP
+5/28/16|9:02:48|6|9|SOUTH ACRES / CRESTMONT PARK|573M|HCID #10-A|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|0|Voice In
+11/13/16|18:04:33|7|18|MUSEUM PARK|533B|Greater Southeast MD|PU Public Utilities|Water Service|PU_Water|2|-1|Voice In
+8/4/16|11:38:43|4|11|SOUTH BELT / ELLINGTON|576P|HCID #9|PU Public Utilities|Water Leak|PU_Water|10|-10|Voice In
+3/2/16|13:26:48|3|13|UNIVERSITY PLACE|493W|Montrose Management District|PU Public Utilities|Water Leak|PU_Water|10|-8|Voice In
+1/7/16|11:21:01|4|11|NEARTOWN - MONTROSE|492Q|Montrose Management District|PU Public Utilities|Water Leak|PU_Water|10|-22|Voice In
+10/13/16|9:24:53|4|9|GREATER OST / SOUTH UNION|534J|Greater Southeast MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|48|Voice In
+3/17/16|18:44:32|4|18|SOUTH PARK|574E|HCID #10-A|PU Public Utilities|Water Leak|PU_Water|10|-19|Voice In
+8/2/16|16:46:36|2|16|ALIEF|529Y|International MD|PU Public Utilities|Water Leak|PU_Water|10|0|Voice In
+3/9/16|17:15:28|3|17|SPRING BRANCH EAST|451S|Spring Branch MD|PU Public Utilities|Water Leak|PU_Water|10|-21|Voice In
+12/15/16|13:28:36|4|13|ALIEF|528L|International MD|PU Public Utilities|Water Leak|PU_Water|10|-9|Voice In
+5/31/16|16:28:01|2|16|GREENWAY / UPPER KIRBY AREA|492X|HCID #3 (Upper Kirby)|PU Public Utilities|Restoration Due To Utility Work|PU_UtilitiesMain|30|18|Voice In
+3/1/16|11:52:02|2|11|GREATER HOBBY AREA|575H|HCID #9|PU Public Utilities|Water Service|PU_Water|2|-22|Voice In
+5/3/16|11:20:14|2|11|GREATER THIRD WARD|493Y|Greater Southeast MD|PU Public Utilities|Water Leak|PU_Water|10|-21|Voice In
+9/8/16|6:48:19|4|6|SHARPSTOWN|529M|Sharpstown MD|PU Public Utilities|Water Leak|PU_Water|10|-2|Voice In
+10/31/16|8:19:23|1|8|SUNNYSIDE|573D|HCID #10-A|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+1/21/16|9:46:24|4|9|SPRING BRANCH CENTRAL|450U|Spring Branch MD|PU Public Utilities|Water Service|PU_Water|2|70|Voice In
+1/5/16|11:42:59|2|11|SHARPSTOWN|531J|Sharpstown MD|PU Public Utilities|Water Service|PU_Water|2|-22|Voice In
+11/21/16|10:06:41|1|10|GULFTON|491Y|Uptown Houston MD|PU Public Utilities|Water Leak|PU_Water|10|-9|Voice In
+8/23/16|16:46:41|2|16|SECOND WARD|494U|East End MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|42|Voice In
+7/18/16|22:15:36|1|22|NEARTOWN - MONTROSE|493N|Montrose Management District|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+11/29/16|13:08:25|2|13|DOWNTOWN|493V|East Downtown MD|PU Public Utilities|Water Service|PU_Water|2|-2|Voice In
+7/5/16|13:42:16|2|13|ALIEF|529N|International MD|PU Public Utilities|Water Service|PU_Water|2|-1|Voice In
+7/1/16|15:46:25|5|15|NORTHSIDE/NORTHLINE|453M|Greater Northside MD|PU Public Utilities|Fire Hydrant|PU_FireHydrant|12|-4|Voice In
+10/16/16|7:54:18|7|7|BRAYS OAKS|530W|HCID #5 (Brays Oaks)|PU Public Utilities|Water Leak|PU_Water|10|-10|Voice In
+10/5/16|16:01:45|3|16|MUSEUM PARK|493X|Greater Southeast MD|PU Public Utilities|Water Main Valve|PU_Water|5|3|Voice In
+12/14/16|22:11:13|3|22|MACGREGOR|533M|Greater Southeast MD|PU Public Utilities|Water Leak|PU_Water|10|-4|Voice In
+7/19/16|22:38:26|2|22|GREATER INWOOD|411T|Near Northwest MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|70|Voice In
+4/25/16|4:56:47|1|4|MEDICAL CENTER AREA|533B|Greater Southeast MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|0|Voice In
+11/29/16|11:08:16|2|11|ALIEF|529J|International MD|PU Public Utilities|Water Leak|PU_Water|10|4|Voice In
+11/18/16|5:16:49|5|5|GULFGATE RIVERVIEW / PINE VALLEY|534H|East End MD|PU Public Utilities|Sewer Manhole|PU_UtilitiesMain|5|-5|Voice In
+10/18/16|14:00:49|2|14|ALIEF|529J|International MD|PU Public Utilities|Water Service|PU_Water|2|-2|Voice In
+1/24/16|11:50:01|7|11|INDEPENDENCE HEIGHTS|453J|Greater Northside MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|0|Voice In
+9/16/16|13:36:23|5|13|SHARPSTOWN|530P|Sharpstown MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+12/29/16|12:25:06|4|12|ALIEF|529K|International MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+9/21/16|9:05:23|3|9|GREATER HEIGHTS|453W|Greater Northside MD|PU Public Utilities|Restoration Due To Utility Work|PU_UtilitiesMain|30|-28|Voice In
+11/7/16|13:17:33|1|13|ALIEF|528R|International MD|PU Public Utilities|Water Service|PU_Water|2|-2|Voice In
+10/22/16|12:23:22|6|12|EASTEX - JENSEN AREA|454J|Greater Northside MD|PU Public Utilities|Water Main Valve|PU_Water|5|-5|Voice In
+2/25/16|7:31:13|4|7|SPRING BRANCH EAST|451X|Spring Branch MD|PU Public Utilities|Water Leak|PU_Water|10|-22|Voice In
+5/17/16|12:13:48|2|12|SUNNYSIDE|533Y|HCID #10-A|PU Public Utilities|Water Leak|PU_Water|10|-20|Voice In
+8/30/16|12:43:11|2|12|SECOND WARD|494T|East End MD|PU Public Utilities|Water Service|PU_Water|2|-2|Voice In
+1/13/16|9:55:12|3|9|WESTWOOD|529R|Sharpstown MD|PU Public Utilities|Water Leak|PU_Water|10|-22|Voice In
+6/2/16|14:22:45|4|14|GREATER THIRD WARD|493X|Greater Southeast MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+3/8/16|15:14:58|2|15|GREATER INWOOD|411K|Near Northwest MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+11/19/16|16:02:12|6|16|GREATER THIRD WARD|493Y|Greater Southeast MD|PU Public Utilities|Sewer Wastewater|PU_WasteWater|1|-1|Voice In
+5/22/16|23:18:23|7|23|NEARTOWN - MONTROSE|492R|Montrose Management District|PU Public Utilities|Water Main Valve|PU_Water|5|-21|Voice In
+12/5/16|18:44:07|1|18|NEARTOWN - MONTROSE|492R|Montrose Management District|Recycling|Recycling Cart Repair or Replace|SWM_RecyclingNE|14|-12|Voice In
+4/9/16|14:23:02|6|14|GREATER EASTWOOD|494T|East End MD|Recycling|Recycling Cart Repair or Replace|SWM_RecyclingSE|14|-9|Voice In
+4/26/16|11:28:48|2|11|CENTRAL SOUTHWEST|571R|Five Corners HCID #10B|Recycling|Recycling Participation NEW|SWM_RecyclingSW|24|-14|Voice In
+2/15/16|13:15:40|1|13|EASTEX - JENSEN AREA|454C|Greater Northside MD|Recycling|Recycling Participation NEW|SWM_RecyclingNW|24|-4|Voice In
+3/4/16|19:24:51|5|19|SPRING BRANCH NORTH|450K|Spring Branch MD|Recycling|Missed Recycling Pickup|SWM_CollectionsNW|4|-1|Voice In
+5/6/16|17:05:19|5|17|NEAR NORTHSIDE|493D|Greater Northside MD|Recycling|Recycling Cart Repair or Replace|SWM_RecyclingNW|14|-1|Voice In
+8/4/16|18:08:43|4|18|GREATER EASTWOOD|494T|East End MD|Recycling|Recycling Participation NEW|SWM_RecyclingSE|24|-23|Voice In
+7/18/16|21:15:20|1|21|NEARTOWN - MONTROSE|493W|Montrose Management District|Recycling|Missed Recycling Pickup|SWM_RecyclingNE|4|-3|Voice In
+6/10/16|17:18:07|5|17|BRAYS OAKS|530W|HCID #5 (Brays Oaks)|Recycling|Recycling Cart Repair or Replace|SWM_CollectionsSW|14|-14|Voice In
+8/17/16|12:17:34|3|12|MEYERLAND AREA|531S|HCID #5 (Brays Oaks)|Recycling|Recycling Cart Repair or Replace|SWM_RecyclingSW|14|-7|Voice In
+12/13/16|15:20:20|2|15|BRAYS OAKS|530Y|HCID #5 (Brays Oaks)|Recycling|Recycling Cart Repair or Replace|SWM_RecyclingSW|14|-12|Voice In
+12/9/16|10:33:01|5|10|BRAYS OAKS|570F|HCID #5 (Brays Oaks)|Recycling|Missed Recycling Pickup|SWM_RecyclingSW|4|-1|Voice In
+5/10/16|10:03:11|2|10|MEYERLAND AREA|530V|HCID #5 (Brays Oaks)|Recycling|Recycling Cart Repair or Replace|SWM_CollectionsSW|14|-14|Voice In
+11/19/16|7:11:33|6|7|CENTRAL SOUTHWEST|572J|Five Corners HCID #10B|Street and Drainage|Pothole|ROWM_StreetMain|18|-4|Voice In
+1/18/16|16:47:37|1|16|MIDTOWN|493P|Midtown MD|Street and Drainage|Pothole|ROWM_StreetMain|18|-2|Voice In
+6/3/16|18:19:07|5|18|NEAR NORTHSIDE|453R|Greater Northside MD|Street and Drainage|Drainage|ROWM_StormSewer|30|-46|Voice In
+3/10/16|9:32:10|4|9|LANGWOOD|450M|Spring Branch MD|Street and Drainage|Drainage|ROWM_StormSewer|30|-60|WAP
+5/17/16|8:06:25|2|8|GREATER THIRD WARD|493X|Greater Southeast MD|Street and Drainage|Pothole|ROWM_StreetMain|18|-1|WEB
+8/2/16|10:32:09|2|10|NEARTOWN - MONTROSE|493S|Montrose Management District|Street and Drainage|Street Condition|ROWM_StreetMain|30|-20|Voice In
+12/20/16|13:07:21|2|13|NEAR NORTHSIDE|453Z|Greater Northside MD|Street and Drainage|Street Hazard|ROWM_StreetMain|10|-9|Voice In
+8/2/16|15:14:18|2|15|SECOND WARD|494N|East End MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|-29|WAP
+7/8/16|14:28:18|5|14|NEARTOWN - MONTROSE|492V|Montrose Management District|Street and Drainage|Street Hazard|ROWM_StreetMain|10|-6|Voice In
+6/30/16|14:11:11|4|14|FONDREN GARDENS|570M|Five Corners HCID #10B|Street and Drainage|Pothole|ROWM_StreetMain|18|-4|Voice In
+3/3/16|9:51:18|4|9|SPRING BRANCH CENTRAL|450L|Spring Branch MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|7|Voice In
+4/25/16|14:10:38|1|14|SHARPSTOWN|530M|Sharpstown MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|-29|Voice In
+1/4/16|8:06:53|1|8|WESTWOOD|530S|Sharpstown MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|-4|Voice In
+12/15/16|9:14:53|4|9|SPRING BRANCH WEST|450W|Spring Branch MD|Street and Drainage|Street Hazard|ROWM_StreetMain|10|-10|Voice In
+6/7/16|18:18:07|2|18|SPRING BRANCH CENTRAL|450Q|Spring Branch MD|Street and Drainage|Drainage|ROWM_StormSewer|30|-39|Voice In
+2/18/16|7:44:06|4|7|SPRING BRANCH EAST|451N|Spring Branch MD|Street and Drainage|Street Hazard|ROWM_StreetMain|10|4|e-mail In
+1/24/16|10:30:35|7|10|SHARPSTOWN|530G|Sharpstown MD|Street and Drainage|Street Hazard|ROWM_StreetMain|10|-13|WAP
+3/19/16|16:05:21|6|16|MIDTOWN|493U|Midtown MD|Street and Drainage|Drainage|ROWM_StormSewer|30|-50|Voice In
+2/10/16|8:30:11|3|8|NEARTOWN - MONTROSE|492R|Montrose Management District|Street and Drainage|Pothole|ROWM_StreetMain|18|-1|Voice In
+5/25/16|10:12:53|3|10|FAIRBANKS / NORTHWEST CROSSING|450F|Spring Branch MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|-3|Voice In
+7/25/16|12:05:32|1|12|GREATER THIRD WARD|493U|Greater Southeast MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|-29|Voice In
+3/16/16|17:50:36|3|17|NEARTOWN - MONTROSE|492R|Montrose Management District|Street and Drainage|Street Condition|ROWM_StreetMain|30|-2|Voice In
+12/7/16|10:14:12|3|10|MAGNOLIA PARK|494V|East End MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|0|Voice In
+8/29/16|7:14:18|1|7|CENTRAL SOUTHWEST|572H|Five Corners HCID #10B|Street and Drainage|Street Condition|ROWM_StreetMain|30|-20|Voice In
+4/6/16|14:07:11|3|14|DOWNTOWN|493L|Houston Downtown|Street and Drainage|Street Hazard|ROWM_StreetMain|10|-14|Voice In
+4/27/16|13:38:31|3|13|SUNNYSIDE|573C|HCID #10-A|Street and Drainage|Drainage|ROWM_StormSewer|30|-12|Voice In
+4/14/16|12:59:55|4|12|GREATER EASTWOOD|494X|East End MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|-18|Voice In
+1/14/16|17:22:13|4|17|MAGNOLIA PARK|494V|East End MD|Street and Drainage|Pothole|ROWM_StreetMain|18|-23|Voice In
+6/28/16|1:42:47|2|1|GULFGATE RIVERVIEW / PINE VALLEY|535J|East End MD|Street and Drainage|Street Condition|ROWM_StreetMain|30|-21|Voice In
+5/28/16|13:09:48|6|13|NEAR NORTHSIDE|453R|Greater Northside MD|Street and Drainage|Drainage|ROWM_StormSewer|30|15|Voice In
+7/22/16|23:54:09|5|23|SPRING BRANCH CENTRAL|450V|Spring Branch MD|Street and Drainage|Drainage|ROWM_StormSewer|30|4|Voice In
+8/25/16|7:36:47|4|7|BRAYS OAKS|570C|HCID #5 (Brays Oaks)|Street and Drainage|Pothole|ROWM_StreetMain|18|0|WEB
+1/14/16|16:57:03|4|16|MAGNOLIA PARK|494V|East End MD|Street and Drainage|Pothole|ROWM_StreetMain|18|-5|Voice In
+7/27/16|9:05:14|3|9|CENTRAL SOUTHWEST|572X|Five Corners HCID #10B|Street and Drainage|Drainage|ROWM_StormSewer|30|3|Voice In
+7/21/16|12:16:11|4|12|SUNNYSIDE|533Y|HCID #10-A|Street and Drainage|Street Condition|ROWM_StreetMain|30|-10|Voice In
+1/27/16|9:18:20|3|9|CENTRAL NORTHWEST|451G|Near Northwest MD|Street and Drainage|Pothole|ROWM_StreetMain|18|-1|WAP
+5/27/16|17:51:04|5|17|HARRISBURG / MANCHESTER|535B|East End MD|Street and Drainage|Street Hazard|ROWM_StreetMain|10|-12|Voice In
+4/21/16|21:33:06|4|21|MACGREGOR|533B|Greater Southeast MD|Traffic Operations|Traffic Bridge/Freeway Lighting|TT_SignalMainDispatch|1|-3|Voice In
+10/12/16|21:26:17|3|21|GREENWAY / UPPER KIRBY AREA|492X|HCID #3 (Upper Kirby)|Traffic Operations|Traffic Signals|TT_SignalOperations|22|-18|Voice In
+1/5/16|7:02:31|2|7|DOWNTOWN|493L|Houston Downtown|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-3|Voice In
+12/14/16|10:03:33|3|10|SPRING BRANCH EAST|451T|Spring Branch MD|Traffic Operations|Traffic School Zones|TT_AreaEngineering|19|-14|Voice In
+10/13/16|9:19:39|4|9|BRAYS OAKS|569D|HCID #5 (Brays Oaks)|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-1|Voice In
+1/4/16|20:06:52|1|20|ALIEF|529P|International MD|Traffic Operations|Traffic Signs|TT_SignsMarking|13|-5|WEB
+8/30/16|17:05:44|2|17|DOWNTOWN|493M|Houston Downtown|Traffic Operations|Traffic Signals|TT_SignalOperations|22|-21|Voice In
+3/3/16|7:44:17|4|7|BRAYS OAKS|570D|HCID #5 (Brays Oaks)|Traffic Operations|Traffic Signs|TT_SignsMarking|13|-13|Voice In
+6/2/16|6:37:56|4|6|MID WEST|530A|Westchase MD|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-3|Voice In
+7/9/16|18:50:11|6|18|SPRING BRANCH WEST|449Z|Proposed Memorial City|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-1|Voice In
+8/25/16|14:38:27|4|14|GULFTON|491Y|Uptown Houston MD|Traffic Operations|Traffic Signals|TT_SignalOperations|22|-8|Voice In
+10/13/16|12:16:35|4|12|SUNNYSIDE|533V|HCID #10-A|Traffic Operations|Traffic Signs|TT_SignsMarking|13|-2|Voice In
+6/14/16|6:12:04|2|6|MACGREGOR|533B|Greater Southeast MD|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-3|Voice In
+3/21/16|15:33:38|1|15|GOLFCREST / BELLFORT / REVEILLE|534V|HCID #9|Traffic Operations|Traffic Signs|TT_SignsMarking|13|-11|Voice In
+3/22/16|7:52:32|2|7|SOUTH PARK|534W|HCID #10-A|Traffic Operations|Traffic Signs|TT_SignsMarking|13|-5|Voice In
+6/28/16|19:20:03|2|19|NORTHSIDE/NORTHLINE|413X|Greater Northside MD|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-3|Voice In
+9/13/16|13:30:56|2|13|DOWNTOWN|493Q|Houston Downtown|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-1|Voice In
+8/4/16|22:20:40|4|22|SPRING BRANCH WEST|450S|Spring Branch MD|Traffic Operations|Traffic Signs|TT_SignsMarking|13|-1|Voice In
+2/23/16|7:28:03|2|7|BRAYS OAKS|530V|HCID #5 (Brays Oaks)|Traffic Operations|Traffic Signals|TT_SignalOperations|22|-21|Voice In
+2/8/16|9:12:11|1|9|NEARTOWN - MONTROSE|493N|Montrose Management District|Traffic Operations|Traffic Signs|TT_SignsMarking|13|-10|WAP
+6/29/16|8:37:34|3|8|BR  AYS OAKS|570D|HCID #5 (Brays Oaks)|Traffic Operations|Traffic Signs|TT_SignsMarking|13|-12|Voice In
+6/1/16|7:05:19|3|7|BRAYS OAKS|569C|HCID #5 (Brays Oaks)|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-3|Voice In
+12/13/16|15:51:11|2|15|WESTCHASE|489Y|Westchase MD|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|0|WEB
+1/6/16|20:40:33|3|20|MID WEST|490T|Westchase MD|Traffic Operations|Traffic Signals|TT_SignalOperations|22|-29|WAP
+5/10/16|8:51:00|2|8|BRAYS OAKS|570H|HCID #5 (Brays Oaks)|Traffic Operations|Traffic Signs|TT_SignsMarking|13|22|Voice In
+6/21/16|16:01:14|2|16|SHARPSTOWN|530A|Sharpstown MD|Traffic Operations|Traffic Markings|TT_AreaEngineering|28|5|Voice In
+5/4/16|23:58:02|3|23|MUSEUM PARK|493X|Greater Southeast MD|Traffic Operations|Traffic Signal Maintenance|TT_SignalMainDispatch|1|-3|Voice In
