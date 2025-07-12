@@ -16,7 +16,6 @@ A Python project that analyzes Chicago 311 call service data with statistical an
 
 ## Usage
 ```bash
-cd f21-python-project-KitzuoAnthony-main
 python3 main.py
 ```
 
